@@ -61,3 +61,9 @@ Follow these steps to set up and run the app locally on **Linux** or **Windows**
 -  Filtering by type
 - Adding favorite Pokemon functionality
 - Enhanced sorting options
+
+## Screenshot Pokedex-app
+![Pokedex Preview](src/assets/Pokedox-demo.png)
+![Pokedex Preview](src/assets/Pokedox-demo1.png)
+
+
